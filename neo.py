@@ -1,4 +1,4 @@
-print("\n\n\n\n\n\nAssalam-o-alaikum and Welcome to HadiXYT STORE that is the store you are looking for\n\n")
+print("\n\n\n\n\n\nAssalam-o-alaikum and Welcome to PTCL HUNTER STORE that is the store you are looking for\n\n")
 
 
 demand = (input("\nhang bro kiya chaye or kiya kar sakta ho ma apky liye?\n\n"))
@@ -11,7 +11,7 @@ not_avaiable = ("\n\nSorry you are at wrong store my boy")
 
 list = ("\n \n1.60 UC\n 340RS\n \n2.300UC\n 1300RS \n\n3.600UC\n 2600RS \n\n4.1200UC\n 13000RS")
 
-cheapBanner = ("\n\nPUBG MOBILE UC RATE LIST FOR C@rding SPEACIAL DISCOUND USE HADI IS PRO \n IF YOU GOT BAN WE WILL RETURN YOUR MONEY\n\n")
+cheapBanner = ("\n\nPUBG MOBILE UC RATE LIST FOR C@rding SPEACIAL DISCOUND USE PTCL_HUNTER IS PRO \n IF YOU GOT BAN WE WILL RETURN YOUR MONEY\n\n")
 
 cheaplist = ("\n \n1. 60 UC\n \n2. 300UC\n \n3. 600UC\n \n4. 4000UC\n ")
 
